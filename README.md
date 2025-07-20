@@ -1,63 +1,97 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExancyOG93bjZ3Zm1tbmJtM2o2N3Zlc3Y5Zmdpazc4OTVnOTBpdmdhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="420" height="330">
+<!-- Futuristic Header Banner -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Famazing-background&psig=AOvVaw3x-boGpnWgZhwsK-6G6OoC&ust=1753117869026000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODnxpH3y44DFQAAAAAdAAAAABAt" width="100%" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Aman%20Raj🚀&fontAlignY=40&fontSize=50&desc=Machine%20Learning%20%7C%20Backend%20Developer%20%7C%20Data%20Analyst&descAlignY=60&color=gradient&animation=twinkling&fontColor=ffffff" />
 </p>
 
-### Hi there, I am Aman Raj 👋
-<!-- your profile content -->
+<!-- Coder GIF -->
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExancyOG93bjZ3Zm1tbmJtM2o2N3Zlc3Y5Zmdpazc4OTVnOTBpdmdhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
+## 👋 Hi, I’m Aman Raj
 
-### Hi there, I am Aman Raj 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaman21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aman-raj-261046276/)](https://www.linkedin.com/in/aman-raj-261046276/)
-[![Gmail Badge](https://img.shields.io/badge/-amanraj4718@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanraj4718@gmail.com)](mailto:amanraj4718@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Raj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-raj-261046276/)
+[![Gmail](https://img.shields.io/badge/Gmail-amanraj4718@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanraj4718@gmail.com)  
+🔗 **Portfolio**: *Coming Soon...*
 
-- 🎯 Portfolio website: [Portfolio]()
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+---
 
-💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Analysis ✍️
-- Data Science 😬
-- Power Bi 🧐
+## 💡 About Me
 
-    
-    
-🛠**Tech Stack**
+- 🎓 B.Tech in Computer Science
+- 🧠 Passionate about **AI**, **Backend Development**, and **Analytics**
+- 🚀 Exploring AI/ML, cloud, and scalable systems
+- 🧩 Problem-solver & tech enthusiast
+- ⚡ _Fun fact: The first rule of programming — "If it works, don’t touch it."_ 🤓
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+---
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=scikitlearn&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=powerbi&logoColor=000000)
+## ❤️‍🔥 Things I Love
 
+- 🐍 Python & Data Pipelines  
+- ⚙️ Backend API Design  
+- 📈 Power BI & Visualization  
+- 🧠 Machine Learning  
+- 📊 Data Analysis & Cleaning  
+- 🧪 Model Optimization & Tuning  
 
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+---
+
+## 🛠️ My Tech Arsenal
+
+### 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+
+### 🧠 ML | DL | AI Stack
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanraj21&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj21&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🧠 Skill Icons (Quick View)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,linux,aws,tensorflow,pytorch,opencv,pandas,numpy,azure,gcp" />
+</p>
+
+---
+
+## 🚀 Projects & Goals
+- ✅ Built multiple ML models for regression/classification
+- ✅ Created dashboards with **Power BI** & **Matplotlib**
+- 🔄 Learning Kubernetes & advanced cloud-native tools
+- 🔜 Launching my personal portfolio & blog site soon...
+
+---
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+  <h3>💬 Let's connect & collaborate!</h3>
 </div>
 
-<!--
-**rajaman21/rajaman21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+</p>
