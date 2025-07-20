@@ -1,5 +1,10 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExancyOG93bjZ3Zm1tbmJtM2o2N3Zlc3Y5Zmdpazc4OTVnOTBpdmdhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="420" height="330">
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Famazing-background&psig=AOvVaw3x-boGpnWgZhwsK-6G6OoC&ust=1753117869026000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODnxpH3y44DFQAAAAAdAAAAABAt" width="100%" alt="Banner">
+</p>
 
+### Hi there, I am Aman Raj 👋
+<!-- your profile content -->
 
 
 ### Hi there, I am Aman Raj 👋
